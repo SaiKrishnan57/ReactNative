@@ -30,7 +30,7 @@ If you want to learn more about Flexbox, don't miss this awesome article: <a hre
 </ul>
 
 ### vAutomatic Linking
-a lot of libraries take some extra steps during the linking process which can't be automated.
+A lot of libraries take some extra steps during the linking process which can't be automated.
 
 For libraries that don't require such extra steps, there is an automated way of linking available though.
 
@@ -40,7 +40,7 @@ You'll need to install an extra package:
 react-native-cli
 ``` 
 
-It's actually installed locally in your project already but if you want to run commands with it, you need to install it globally.
+It's actually installed locally in your project already; but if you want to run commands with it, you need to install it globally.
 
 Install it globally via 
 ```
